@@ -60,4 +60,3 @@ Navbar.defaultProps = {
     aboutText: 'About Text Here'
 };
 
-
